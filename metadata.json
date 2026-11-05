@@ -1,0 +1,6 @@
+{
+  "name": "Living Lab",
+  "description": "A creative research lab showcase for vibe-coded projects imported from Claude, Lovable, and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
